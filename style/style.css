@@ -1,0 +1,61 @@
+  * {
+    box-sizing: border-box;
+    background-color: #9eda11;
+    font-family: Arial;
+  }
+
+  #id {
+    color: rgb(238, 23, 69);
+  }
+
+  span {
+    font-size: 18px;
+  }
+
+  h3, div {
+    color: rgb(92, 4, 175);
+  }
+
+  div {
+    font-size: 20px;
+    background-color: aqua;
+  }
+
+  .classUL .classA {
+    color: #3112e6;
+    font-size: 18px;
+  }
+
+  .first.page {
+    color: rgb(219, 2, 85);
+    font-size: 25px;
+    background-color: blanchedalmond;
+  }
+
+  .poClassu {
+    color: rgb(250, 143, 3);
+    background-color: rgb(7, 4, 0);
+    font-family: Georgia;
+    font-size: 20px;
+  }
+
+  ul a {
+    background-color: white;
+  }
+
+[href] {
+  color: #b30505;
+}
+
+[href="www.hw.com"] {
+  color: white;
+  background-color: orangered;
+}
+
+.end {
+  color: rgb(4, 102, 4);
+  font-size: 30px;
+  background-color: rgb(252, 252, 0);
+}
+
+/*Коментарии*/
